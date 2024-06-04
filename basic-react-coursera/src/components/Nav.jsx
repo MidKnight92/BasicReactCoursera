@@ -1,4 +1,4 @@
-function Nav(){
+export default function Nav(){
     return (
         <nav className="main-nav">
             <ul>
@@ -9,4 +9,4 @@ function Nav(){
             </ul>
         </nav>
     )
-}
+};
